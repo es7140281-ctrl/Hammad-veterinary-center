@@ -1,0 +1,126 @@
+{
+  "navbar": {
+    "home": "Home",
+    "products": "Products",
+    "videos": "Videos",
+    "contact": "Contact Us",
+    "whatsapp": "WhatsApp"
+  },
+
+  "brand": {
+    "name": "Hammad Veterinary Center",
+    "description": "Complete Veterinary Care"
+  },
+
+  "home": {
+    "title": "Complete Veterinary Care for Farms and Animals",
+    "description": "We provide specialized veterinary services and complete care for farms and animals using the latest scientific methods and professional expertise.",
+    "button": "Discover Our Services"
+  },
+
+  "about": {
+    "title": "About Hammad Veterinary Center",
+    "description": "We provide comprehensive veterinary services for farms and animals using modern scientific methods and specialized expertise."
+  },
+
+  "services": {
+    "title": "Our Services",
+
+    "farm": {
+      "title": "Farm Supervision",
+      "description": "Following production cycles and providing veterinary guidance to improve results."
+    },
+
+    "vaccination": {
+      "title": "Vaccination Programs",
+      "description": "Preparing suitable vaccination programs to maintain animal health."
+    },
+
+    "medicine": {
+      "title": "Medicines and Supplies",
+      "description": "Providing high-quality veterinary medicines and supplies."
+    },
+
+    "poultry": {
+      "title": "Poultry Examination and Necropsy",
+      "description": "Diagnosing cases and monitoring poultry problems."
+    },
+
+    "care": {
+      "title": "Veterinary Care",
+      "description": "Following medical cases and providing suitable solutions."
+    }
+  },
+
+  "farm": {
+    "title": "Farm Supervision",
+    "description": "We provide farm supervision and follow-up services through production plans and preventive programs that help improve animal health and increase production.",
+    "button": "Contact Us"
+  },
+
+  "products": {
+    "title": "Products",
+    "description": "Browse our veterinary products and available supplies.",
+    "empty": "No products available currently.",
+    "waiting": "Products will be added from the dashboard soon.",
+    "button": "View All Products",
+
+    "items": {
+      "vitamins": {
+        "name": "Veterinary Vitamins",
+        "description": "Nutritional supplements to help improve animal health."
+      },
+
+      "medicine": {
+        "name": "Veterinary Medicines",
+        "description": "A range of high-quality veterinary medicines."
+      },
+
+      "supplies": {
+        "name": "Farm Supplies",
+        "description": "Supplies that help manage farms efficiently."
+      }
+    }
+  },
+
+  "videos": {
+    "title": "Videos",
+    "description": "Watch the latest videos from the center.",
+    "empty": "Videos will be added soon.",
+    "button": "View All Videos",
+
+    "items": {
+      "care": {
+        "title": "Animal Care Methods"
+      },
+
+      "farms": {
+        "title": "Farm Tips"
+      },
+
+      "veterinary": {
+        "title": "Proper Veterinary Care"
+      }
+    }
+  },
+
+  "contactCTA": {
+    "title": "Need Veterinary Consultation?",
+    "description": "Contact us now to get the best veterinary service.",
+    "button": "Contact on WhatsApp"
+  },
+
+  "contact": {
+    "title": "Contact Us",
+    "description": "We are happy to hear from you and provide the best veterinary services.",
+    "follow": "Follow Us",
+    "address": "Address",
+    "phone": "Phone Number",
+    "email": "Email",
+    "mapButton": "Open Location on Google Maps"
+  },
+
+  "footer": {
+    "rights": "All rights reserved to Hammad Veterinary Center"
+  }
+}
